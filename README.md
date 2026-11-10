@@ -1,16 +1,21 @@
-## Hi there 👋
+# Olá! Eu sou Gabriel Lopes Anibal Costa
 
-<!--
-**GabrielLopes77/GabrielLopes77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre mim
+Sou estudante do curso Técnico em Informática para Internet no SENAI e estou cursando o Ensino Médio.
 
-Here are some ideas to get you started:
+Tenho interesse em desenvolvimento web e Engenharia de Software. Busco aprender novas tecnologias e desenvolver minhas habilidades na área de programação.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tecnologias e conhecimentos
+- HTML
+- CSS
+- JavaScript
+- Lógica de programação
+
+## Objetivos
+- Aprimorar meus conhecimentos em programação.
+- Desenvolver projetos práticos.
+- Aprender novas tecnologias.
+- Conquistar oportunidades de estágio ou primeiro emprego.
+
+## Contato
+- LinkedIn: [Meu perfil](COLOQUE_AQUI_SEU_LINK_DO_LINKEDIN)
